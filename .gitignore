@@ -1,0 +1,30 @@
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Node / build files
+node_modules/
+npm-debug.log
+yarn-error.log
+*.log
+
+# Composer dependencies
+vendor/
+composer.lock
+
+# Sass cache
+.sass-cache/
+
+# Build output
+dist/
+build/
+
+# WordPress uploads (never version-control these)
+wp-content/uploads/
+
+# Zip archives
+*.zip
