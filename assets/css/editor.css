@@ -1,0 +1,101 @@
+/*post date*/
+.wp-block-post-date::before{
+  content: "\f508";
+  font-family: 'Dashicons';
+  font-weight: 600;
+  padding-right: 5px;
+  font-size: 12px;
+}
+
+.post-author-name.wp-block-post-author-name::before{
+  content: "\f110";
+  font-family: 'Dashicons';
+  font-weight: 600;
+  padding-right: 5px;
+  font-size: 12px;
+}
+.wp-block-button__link {
+  transition: all 0.3s ease;
+}
+
+.wp-block-button__link:hover {
+  background-color: #0b5ed7;
+  color: var(--wp--preset--color--base); /* or any desired text color */
+}
+.has-border-radius{
+	border-radius: 7px;
+}
+.has-box-shadow{
+	box-shadow: rgba(255, 255, 255, 0.25) 0px 50px 100px -20px,
+            rgba(255, 255, 255, 0.3) 0px 30px 60px -30px,
+            rgba(255, 255, 255, 0.35) 0px -2px 6px 0px inset;
+}
+.pricing-icon::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    padding-right: 7px;
+    font-size: 16px;
+    content: "\f058";
+    color: var(--wp--preset--color--assets-one);
+}
+
+.log-out::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    padding-right: 7px;
+    font-size: 16px;
+    content: "\f007";
+    color: var(--wp--preset--color--assets-one);
+    cursor: pointer;
+}
+
+.home-blogs{
+	margin-right: 15px!important;
+}
+.wp-block-button .wp-block-button__link{
+  color: var(--wp--preset--color--primary);
+}
+
+.wptravel-block-trips-list .slick-slider .slick-next {
+    right: -50px !important;
+    background-color: var(--wp--preset--color--assets-one)!important;
+    transform: rotate(180deg);
+    padding: 5px 25px 40px 25px;
+}
+
+.trip-man::before {
+  content: "\f2bd";
+  font-family: "Font Awesome 5 Free";
+  margin-right: 6px;
+  font-weight: 600;
+}
+.trip-days:before{
+  content: "\f073";
+  font-family: "Font Awesome 5 Free";
+  margin-right: 6px;
+  font-weight: 600;
+}
+
+.wp-block-button__link:hover {
+  background-color: var(--wp--preset--color--assets-two);
+}
+.location-icon::before{
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+    content: '\f3c5';
+	   margin-right: 9px;
+}
+/* bizora style start */
+.list:before {
+  content: "\f058";
+  font-family: "Font Awesome 5 Free";
+  margin-right: 8px;
+  font-weight: 600;
+  color: var(--wp--preset--color--assets-one);
+}
+.has-box-shadow {
+box-shadow: rgba(72, 72, 72, 0.1) 0px 4px 12px;
+}
+.horizental-line{
+  width: 32px!important;
+}
