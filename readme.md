@@ -1,7 +1,6 @@
 # 🌐 Business College Hekseniki – Networking & Community Platform
 
-**By: Bita Yeganeh**  
-**Live Site:** https://fizzy-bottle.localsite.io
+**By: Bita Yeganeh**
 
 ---
 
@@ -95,5 +94,30 @@ The website includes **two languages**:
 - Managed content structure and navigation
 - Developed and customized the WordPress setup
 
-**SCREENSHOTS**
-![Alt text](Screenshots)
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](Screenshots/Home_Eng.png)
+
+### Events Page
+
+![Events Page](Screenshots/Events_Eng.png)
+
+### Communities Page
+
+![Communities Page](Screenshots/Communities_Eng.png)
+
+### Networking Page
+
+![Networking Page](Screenshots/Networking_Eng.png)
+
+### Finnish Pages
+
+![](Screenshots/AssemblyFinnishSinglePage.png)
+![](Screenshots/Home_Fin.png)
+
+###Filtering
+![](Screenshots/Filter1.png)
+![](Screenshots/Filter2.png)
+![](Screenshots/Filter3.png)
