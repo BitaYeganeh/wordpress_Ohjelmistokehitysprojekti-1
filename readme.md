@@ -117,7 +117,8 @@ The website includes **two languages**:
 ![](Screenshots/AssemblyFinnishSinglePage.png)
 ![](Screenshots/Home_Fin.png)
 
-###Filtering
+### Filter Pages
+
 ![](Screenshots/Filter1.png)
 ![](Screenshots/Filter2.png)
 ![](Screenshots/Filter3.png)
