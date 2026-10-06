@@ -1,12 +1,16 @@
-# 🌐 Business College Hekseniki – Networking & Community Platform
+# 🌐 Business College Helsinki – Networking & Community Platform
 
 **By: Bita Yeganeh**
+
+**🔗 Live site:** [bitayeganeh.github.io/wordpress_Ohjelmistokehitysprojekti-1](https://bitayeganeh.github.io/wordpress_Ohjelmistokehitysprojekti-1/)
+
+![Home Page](Screenshots/Home_Eng.png)
 
 ---
 
 ## 📌 Project Overview
 
-This project is a modern, bilingual (English + Finnish) WordPress website created for **Hekseniki Business College**.  
+This project is a modern, bilingual (English + Finnish) WordPress website created for **Business College Helsinki**.  
 Its purpose is to help students and community members **find networking opportunities**, discover **local communities**, and explore **events** related to IT, business, programming, gaming, and more.
 
 The site highlights how networking connects people with shared interests, encourages collaboration, and supports personal and professional growth.
@@ -114,11 +118,11 @@ The website includes **two languages**:
 
 ### Finnish Pages
 
-![](Screenshots/AssemblyFinnishSinglePage.png)
-![](Screenshots/Home_Fin.png)
+![Assembly event page in Finnish](Screenshots/AssemblyFinnishSinglePage.png)
+![Home page in Finnish](Screenshots/Home_Fin.png)
 
 ### Filter Pages
 
-![](Screenshots/Filter1.png)
-![](Screenshots/Filter2.png)
-![](Screenshots/Filter3.png)
+![Category filter, example 1](Screenshots/Filter1.png)
+![Category filter, example 2](Screenshots/Filter2.png)
+![Category filter, example 3](Screenshots/Filter3.png)
